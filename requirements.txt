@@ -1,0 +1,35 @@
+# Core libraries for data manipulation and analysis
+numpy
+pandas
+scipy
+json
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistical analysis
+statsmodels
+
+# Machine learning
+scikit-learn
+xgboost
+
+
+# Jupyter ecosystem for interactive analysis
+jupyterlab
+notebook
+ipywidgets
+
+# Utilities
+joblib
+tqdm
+
+# Database connectors (if needed, uncomment or adjust as per your requirements)
+# sqlalchemy
+# psycopg2
+
+# Spiders
+beautifulsoup4  # For web scraping
+requests        # For making HTTP requests
+lxml            # Useful with BeautifulSoup
